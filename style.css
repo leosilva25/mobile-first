@@ -1,0 +1,69 @@
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+
+
+
+.sedans{
+    
+    margin-top: 50px;
+    border-radius: 10px 10px 0px 0px ;
+    background-image: linear-gradient(to bottom, #BF7C41,#D97925 );
+    width: 300px;
+    padding-top: 50px;
+    padding-left: 45px;
+    height: 450px;
+    color: white;
+
+
+}
+
+div .img{
+    padding-bottom: 25px;
+}
+
+div .h1sedans{
+    padding-bottom: 25px;
+}
+
+
+button{
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 80px;
+    text-decoration: none;
+    color: white;
+    border:1px solid white;
+    border-radius: 30px;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+}
+
+
+
+.suvs{
+    
+    border-radius: 0px 0px 0px 0px ;
+    background-image: linear-gradient(to bottom, #01403A,#016972 );
+    width: 300px;
+    padding-top: 50px;
+    padding-left: 45px;
+    height: 450px;
+    color: white;
+}
+
+.luxury{
+     
+    border-radius: 0px 0px 10px 10px ;
+    background-color: #01403A;
+    width: 300px;
+    padding-top: 50px;
+    padding-left: 45px;
+    margin-bottom: 50px;
+    height: 450px;
+    color: white;
+
+}
